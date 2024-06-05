@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --font-swis721-blk-bt: "Swis721 Blk BT";
+    --font-arial: Arial;
+    --font-wendy-one: "Wendy One";
+    --font-swis721-blkex-bt: "Swis721 BlkEx BT";
+  
+    /* font sizes */
+    --font-size-6xl: 25px;
+    --font-size-mini: 15px;
+    --font-size-3xs: 10px;
+    --font-size-31xl: 50px;
+    --font-size-41xl: 60px;
+    --font-size-4xl: 23px;
+    --font-size-11xl: 30px;
+    --font-size-xl: 20px;
+  
+    /* Colors */
+    --color-gainsboro: #e6e5dc;
+    --color-white: #fff;
+    --color-darkseagreen-100: #7f9972;
+    --color-darkseagreen-200: rgba(127, 153, 114, 0.5);
+    --color-black: #000;
+  
+    /* Gaps */
+    --gap-3xs: 10px;
+    --gap-lgi: 19px;
+  
+    /* Paddings */
+    --padding-3xs: 10px;
+  
+    /* Border radiuses */
+    --br-31xl: 50px;
+    --br-3xs: 10px;
+    --br-mini: 15px;
+    --br-6xl: 25px;
+  }
+  

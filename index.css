@@ -1,0 +1,1355 @@
+.emanuel-berdugo {
+    width: 1432px;
+    position: relative;
+    display: inline-block;
+  }
+  .folio,
+  .porta {
+    margin: 0;
+  }
+  .folio {
+    letter-spacing: 0.1em;
+  }
+  .diseo-grfico,
+  .porta-folio {
+    position: relative;
+    font-weight: 900;
+  }
+  .porta-folio {
+    line-height: 94.87%;
+    background: linear-gradient(180deg, #000 65.5%, #84847f 83.5%, #e6e5dc);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .diseo-grfico {
+    font-size: var(--font-size-41xl);
+    font-family: var(--font-swis721-blk-bt);
+    text-align: left;
+  }
+  .emanuel-berdugo-parent,
+  .porta-folio-parent {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .porta-folio-parent {
+    gap: 17px;
+    text-align: center;
+    font-size: 250px;
+    font-family: var(--font-swis721-blkex-bt);
+  }
+  .emanuel-berdugo-parent {
+    position: absolute;
+    top: 74px;
+    left: 379px;
+    gap: 133px;
+  }
+  .bienvenida {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: var(--color-gainsboro);
+    width: 1920px;
+    height: 1080px;
+    overflow: hidden;
+    text-align: right;
+    font-size: var(--font-size-31xl);
+    font-family: var(--font-arial);
+  }
+  .experiencias-como-freelance {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-weight: 900;
+    text-align: center;
+    display: inline-block;
+    width: 1791px;
+  }
+  .frame-child,
+  .imagen-de-whatsapp-2023-11-29 {
+    width: 420px;
+    position: relative;
+    height: 510px;
+    object-fit: cover;
+  }
+  .frame-child {
+    width: 419px;
+  }
+  .imagen-de-whatsapp-2023-11-29-parent {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 53px;
+  }
+  .este-logo-fue {
+    font-family: var(--font-arial);
+  }
+  .blank-line-container {
+    white-space: pre-wrap;
+  }
+  .blank-line4 {
+    text-decoration: underline;
+  }
+  .blank-line3 {
+    color: inherit;
+  }
+  .este-logo-fue-container {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    display: inline-block;
+    width: 892px;
+    height: 281px;
+  }
+  .skill-iconsinstagram {
+    position: absolute;
+    top: 224px;
+    left: 10px;
+    width: 45px;
+    height: 45px;
+    overflow: hidden;
+    cursor: pointer;
+  }
+  .este-logo-fue-creado-para-una-parent {
+    width: 912px;
+    position: relative;
+    height: 291px;
+  }
+  .frame-group {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 16px;
+  }
+  .carta-todo-rico-1-icon,
+  .icon {
+    width: 389px;
+    position: relative;
+    height: 250px;
+    object-fit: cover;
+  }
+  .carta-todo-rico-1-icon {
+    width: 380px;
+  }
+  .este-trabajo-lo {
+    width: 824px;
+    flex-shrink: 0;
+  }
+  .parent {
+    gap: 12px 55px;
+  }
+  .frame-div,
+  .parent {
+    width: 824px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .imagen-de-whatsapp-2024-01-31,
+  .imagen-de-whatsapp-2024-02-02 {
+    width: 382px;
+    position: relative;
+    height: 233px;
+    object-fit: cover;
+  }
+  .imagen-de-whatsapp-2024-01-31 {
+    width: 380px;
+  }
+  .frame-inner,
+  .frame-item {
+    width: 45px;
+    position: relative;
+    height: 45px;
+  }
+  .frame-inner {
+    width: 44.1px;
+    cursor: pointer;
+  }
+  .group-parent {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 24px;
+  }
+  .wau-es-una-container {
+    width: 824px;
+    position: relative;
+    display: inline-block;
+    flex-shrink: 0;
+  }
+  .imagen-de-whatsapp-2024-02-02-parent {
+    width: 824px;
+    height: 395px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 17px 55px;
+  }
+  .frame-container,
+  .frame-parent,
+  .frame-wrapper1,
+  .imagen-de-whatsapp-2024-02-02-parent {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .frame-wrapper1 {
+    width: 824px;
+    height: 395px;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+  .frame-container,
+  .frame-parent {
+    flex-direction: column;
+    gap: 42px;
+    font-size: var(--font-size-xl);
+  }
+  .frame-parent {
+    position: absolute;
+    top: 114px;
+    left: 0;
+    flex-direction: row;
+    gap: 55px;
+    font-size: var(--font-size-4xl);
+    color: var(--color-black);
+    font-family: var(--font-arial);
+  }
+  .bxsup-arrow,
+  .vector-icon {
+    position: absolute;
+    top: 0;
+    left: 6px;
+    width: 61px;
+    height: 61px;
+    overflow: hidden;
+  }
+  .vector-icon {
+    height: 72.16%;
+    width: 69.59%;
+    right: 15.23%;
+    bottom: 27.84%;
+    left: 15.18%;
+    max-width: 100%;
+    max-height: 100%;
+  }
+  .presentacin {
+    position: absolute;
+    top: 40.77px;
+    left: 0;
+    font-weight: 900;
+  }
+  .vector-parent {
+    position: absolute;
+    height: 83.81%;
+    width: 100%;
+    top: 16.25%;
+    right: 0;
+    bottom: -0.05%;
+    left: 0;
+  }
+  .bxsup-arrow-parent {
+    position: absolute;
+    top: 0;
+    left: 1711px;
+    width: 73px;
+    height: 63px;
+    cursor: pointer;
+    font-size: var(--font-size-3xs);
+  }
+  .experiencias-como-freelance-parent,
+  .frame-wrapper {
+    position: absolute;
+    top: -124px;
+    left: -967px;
+    width: 1791px;
+    height: 944px;
+  }
+  .frame-wrapper {
+    top: 124px;
+    left: 967px;
+    width: 824px;
+    height: 807px;
+  }
+  .trabajos-por-fuera-inner {
+    position: absolute;
+    top: 64px;
+    left: 64px;
+    width: 1791px;
+    height: 931px;
+  }
+  .trabajos-por-fuera {
+    position: absolute;
+    top: 5920px;
+    left: 0;
+    background-color: var(--color-gainsboro);
+    width: 1919px;
+    height: 1080px;
+    overflow: hidden;
+    font-size: var(--font-size-41xl);
+  }
+  .rectangle-div {
+    width: 482px;
+    position: absolute;
+    margin: 0 !important;
+    top: 158px;
+    left: 85px;
+    border-radius: 0 var(--br-6xl) var(--br-6xl) var(--br-31xl);
+    background-color: var(--color-darkseagreen-100);
+    height: 698px;
+    z-index: 0;
+  }
+  .imagen-de-whatsapp-2024-05-29-icon {
+    width: 600px;
+    position: relative;
+    height: 890px;
+    object-fit: contain;
+  }
+  .imagen-de-whatsapp-2024-05-29-wrapper {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+  }
+  .frame-wrapper2 {
+    width: 620px;
+    position: relative;
+    height: 910px;
+    z-index: 1;
+  }
+  .rectangle-parent {
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-3xs);
+  }
+  .hola-soy {
+    position: relative;
+    font-size: 40px;
+    text-align: left;
+  }
+  .emanuel-berdugo1 {
+    font-size: 70px;
+    font-family: var(--font-wendy-one);
+    text-align: right;
+  }
+  .como-diseador-grfico,
+  .emanuel-berdugo1,
+  .en-instagram-estoy,
+  .tengo-19-aos {
+    width: 927px;
+    position: relative;
+    display: inline-block;
+  }
+  .como-diseador-grfico,
+  .en-instagram-estoy {
+    height: 204px;
+    flex-shrink: 0;
+  }
+  .en-instagram-estoy {
+    height: 194px;
+  }
+  .frame-wrapper3,
+  .frame-wrapper4,
+  .hola-soy-parent {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .hola-soy-parent {
+    gap: 25px;
+  }
+  .frame-wrapper3,
+  .frame-wrapper4 {
+    padding: var(--padding-3xs);
+  }
+  .frame-wrapper3 {
+    position: absolute;
+    top: 58px;
+    left: 648px;
+    align-items: center;
+    justify-content: center;
+  }
+  .frame-parent1 {
+    position: absolute;
+    top: 85px;
+    left: 121px;
+    width: 1615px;
+    height: 910px;
+    font-size: var(--font-size-11xl);
+    color: var(--color-black);
+    font-family: var(--font-arial);
+  }
+  .vector-icon1 {
+    position: absolute;
+    height: 71.75%;
+    width: 76.97%;
+    top: 28.25%;
+    right: 10.91%;
+    bottom: 0;
+    left: 12.12%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .universidad {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-weight: 900;
+  }
+  .perfil-inner,
+  .vector-group {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+  }
+  .perfil-inner {
+    height: 4.92%;
+    width: 3.44%;
+    top: 5.93%;
+    right: 7.19%;
+    bottom: 89.16%;
+    left: 89.37%;
+    cursor: pointer;
+  }
+  .vector-icon2 {
+    position: absolute;
+    height: 71.75%;
+    width: 92.36%;
+    top: 28.25%;
+    right: 2.18%;
+    bottom: 0;
+    left: 5.45%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .perfil-child {
+    position: absolute;
+    height: 4.92%;
+    width: 2.86%;
+    top: 5.93%;
+    right: 3.91%;
+    bottom: 89.16%;
+    left: 93.23%;
+    cursor: pointer;
+  }
+  .perfil {
+    position: absolute;
+    top: 1080px;
+    left: 0;
+    background: linear-gradient(180deg, #e6e5dc);
+    width: 1920px;
+    height: 1080px;
+    overflow: hidden;
+    font-size: var(--font-size-3xs);
+  }
+  .imagen-de-whatsapp-2023-10-03 {
+    width: 437px;
+    position: relative;
+    border-radius: 30px;
+    height: 777px;
+    object-fit: cover;
+  }
+  .habilidades {
+    font-weight: 900;
+    font-family: var(--font-swis721-blk-bt);
+    color: var(--color-darkseagreen-100);
+    text-align: left;
+  }
+  .creativo,
+  .habilidades {
+    position: relative;
+  }
+  .habilidades-parent {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 7px;
+  }
+  .group-icon {
+    width: 135px;
+    position: relative;
+    height: 27px;
+  }
+  .frame-parent4,
+  .group-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 12px;
+  }
+  .frame-parent4 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    flex-direction: row;
+    align-items: flex-end;
+    gap: 32px;
+  }
+  .herramientas-que-utilizo {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-size: 35px;
+    font-weight: 900;
+    font-family: var(--font-swis721-blk-bt);
+    color: var(--color-darkseagreen-100);
+    text-align: left;
+  }
+  .image-1-icon {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 84px;
+    height: 84px;
+    object-fit: cover;
+  }
+  .ilustrador {
+    position: absolute;
+    top: 10px;
+    left: 90px;
+  }
+  .frame-child7,
+  .image-1-parent {
+    position: absolute;
+    top: 47px;
+    left: 90px;
+    width: 135px;
+    height: 27px;
+  }
+  .image-1-parent {
+    top: 73px;
+    left: -7px;
+    width: 255px;
+    height: 84px;
+  }
+  .image-3-icon {
+    width: 89px;
+    position: relative;
+    height: 50px;
+    object-fit: cover;
+  }
+  .capcut,
+  .group-child {
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  .group-child {
+    top: 37px;
+    width: 135px;
+    height: 27px;
+  }
+  .capcut-parent {
+    width: 135px;
+    position: relative;
+    height: 64px;
+  }
+  .image-3-parent {
+    position: absolute;
+    top: 73px;
+    left: 315.35px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: flex-start;
+    gap: 11px;
+  }
+  .image-2-icon {
+    width: 72px;
+    position: relative;
+    height: 72px;
+    object-fit: cover;
+  }
+  .photoshop-parent {
+    width: 157px;
+    position: relative;
+    height: 64px;
+  }
+  .image-2-parent {
+    position: absolute;
+    top: 188px;
+    left: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-lgi);
+  }
+  .wordpress-parent {
+    width: 158px;
+    position: relative;
+    height: 64px;
+  }
+  .group {
+    position: absolute;
+    top: 188px;
+    left: 319px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-lgi);
+  }
+  .image-4-icon {
+    width: 72px;
+    position: relative;
+    height: 71px;
+    object-fit: cover;
+  }
+  .image-4-parent {
+    position: absolute;
+    top: 291px;
+    left: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: var(--gap-lgi);
+  }
+  .ds-icon-free-download-png-and- {
+    width: 58px;
+    position: relative;
+    height: 70px;
+    object-fit: cover;
+  }
+  .ds-icon-free-download-png-and-parent {
+    position: absolute;
+    top: 288px;
+    left: 336px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: var(--gap-lgi);
+  }
+  .herramientas-que-utilizo-parent {
+    position: absolute;
+    top: 380px;
+    left: 0;
+    width: 573px;
+    height: 362px;
+  }
+  .frame-parent3 {
+    width: 573px;
+    position: relative;
+    height: 742px;
+  }
+  .expericencia-como-diseador {
+    position: relative;
+    font-weight: 900;
+  }
+  .expericencia-como-diseador-wrapper {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-3xs);
+  }
+  .frame-wrapper5 {
+    width: 602px;
+    position: relative;
+    height: 76px;
+    text-align: left;
+    color: var(--color-darkseagreen-100);
+    font-family: var(--font-swis721-blk-bt);
+  }
+  .imagen-de-whatsapp-2023-10-03-parent {
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 86px;
+  }
+  .el-diseo-grfico-container {
+    width: 565px;
+    position: relative;
+    display: inline-block;
+  }
+  .el-diseo-grfico-al-igual-qu-wrapper {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  .frame-wrapper8 {
+    width: 585px;
+    position: relative;
+    height: 696px;
+  }
+  .frame-wrapper7 {
+    position: absolute;
+    top: -10px;
+    left: -10px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: var(--padding-3xs);
+  }
+  .frame-wrapper6 {
+    position: absolute;
+    top: 79px;
+    left: 1192px;
+    width: 585px;
+    height: 696px;
+    font-size: var(--font-size-4xl);
+  }
+  .experiencia,
+  .frame-parent2 {
+    position: absolute;
+    top: 144px;
+    left: 77px;
+    width: 1784px;
+    height: 777px;
+  }
+  .experiencia {
+    top: 2262px;
+    left: 5px;
+    background-color: var(--color-gainsboro);
+    width: 1915px;
+    height: 1080px;
+    overflow: hidden;
+    font-size: var(--font-size-11xl);
+    color: var(--color-black);
+    font-family: var(--font-arial);
+  }
+  .mis-mejores-trabajos {
+    margin: 0;
+    font-size: var(--font-size-31xl);
+  }
+  .creciendo-como-profesional-container {
+    position: absolute;
+    top: 57px;
+    left: calc(50% - 658.5px);
+    text-transform: uppercase;
+    font-weight: 900;
+    color: var(--color-darkseagreen-100);
+    font-size: var(--font-size-41xl);
+  }
+  .hombres-no-lloran {
+    width: 284px;
+    position: relative;
+    border-radius: var(--br-3xs);
+    height: 371px;
+    flex-shrink: 0;
+    object-fit: cover;
+  }
+  .ilustracin-sobre-la-container {
+    width: 364px;
+    position: relative;
+    text-transform: uppercase;
+    font-weight: 900;
+    display: inline-block;
+    height: 96px;
+    flex-shrink: 0;
+  }
+  .hombres-no-lloran-parent {
+    position: absolute;
+    top: 282px;
+    left: 30px;
+    width: 371px;
+    height: 489px;
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .chef-icon {
+    width: 284px;
+    position: relative;
+    border-radius: var(--br-3xs);
+    height: 372px;
+    object-fit: cover;
+  }
+  .efecto-sello-en-container {
+    width: 312px;
+    position: relative;
+    text-transform: uppercase;
+    font-weight: 900;
+    display: inline-block;
+    height: 72px;
+    flex-shrink: 0;
+  }
+  .chef-parent {
+    position: absolute;
+    top: 282px;
+    left: 683px;
+    width: 305px;
+    height: 456px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .vacile-icon {
+    width: 284px;
+    position: relative;
+    border-radius: var(--br-3xs);
+    height: 371px;
+    object-fit: cover;
+  }
+  .vacile-parent {
+    position: absolute;
+    top: 523px;
+    left: 985px;
+    width: 305px;
+    height: 456px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .tamarindo-icon {
+    width: 288px;
+    position: relative;
+    border-radius: var(--br-3xs);
+    height: 372px;
+    object-fit: cover;
+  }
+  .edificio-destruido-parent,
+  .messi-parent,
+  .tamarindo-parent {
+    position: absolute;
+    top: 282px;
+    left: 1292px;
+    width: 305px;
+    height: 456px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .edificio-destruido-parent,
+  .messi-parent {
+    top: 523px;
+    left: 1599px;
+  }
+  .messi-parent {
+    left: 380px;
+    height: 460px;
+  }
+  .xmlid-1-icon {
+    width: 88px;
+    position: relative;
+    height: 88px;
+    z-index: 0;
+  }
+  .xmlid-3-icon {
+    width: 49.6px;
+    position: relative;
+    height: 49.6px;
+  }
+  .grafikpixel22 {
+    position: relative;
+    text-decoration: underline;
+    font-weight: 900;
+    color: inherit;
+  }
+  .xmlid-3-parent {
+    margin: 0 !important;
+    position: absolute;
+    top: 13px;
+    left: 14px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 2px;
+    z-index: 1;
+  }
+  .frame,
+  .instagram-logo {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .frame {
+    overflow: hidden;
+    position: relative;
+    gap: var(--gap-3xs);
+  }
+  .instagram-logo {
+    position: absolute;
+    top: 57px;
+    left: 1790px;
+    filter: drop-shadow(0 4px 4px rgba(0, 0, 0, 0.25) inset);
+    cursor: pointer;
+    text-align: justify;
+    font-size: 8px;
+    color: var(--color-white);
+  }
+  .presentacin1 {
+    position: absolute;
+    top: 51px;
+    left: 0;
+    font-weight: 900;
+  }
+  .bxsup-arrow-group {
+    position: absolute;
+    top: 71px;
+    left: 1695px;
+    width: 73px;
+    height: 63px;
+    text-align: justify;
+    font-size: var(--font-size-3xs);
+    color: var(--color-darkseagreen-100);
+  }
+  .universidad-trabajos {
+    position: absolute;
+    top: 3474px;
+    left: -1px;
+    background: linear-gradient(
+        180deg,
+        rgba(230, 229, 220, 0.2),
+        rgba(127, 153, 114, 0.2) 65.49%
+      ),
+      linear-gradient(#e6e5dc, #e6e5dc), #e6e5dc;
+    width: 1921px;
+    height: 1080px;
+    overflow: hidden;
+    text-align: center;
+    color: var(--color-black);
+  }
+  .decoracion-blanca,
+  .decoracion-verde {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: var(--br-mini);
+    background-color: var(--color-darkseagreen-200);
+    width: 298px;
+    height: 475px;
+  }
+  .decoracion-blanca {
+    top: 398px;
+    left: 13px;
+    background-color: var(--color-white);
+    width: 274px;
+    height: 49px;
+  }
+  .decoracion-verde-parent {
+    position: absolute;
+    top: 580px;
+    left: 362px;
+    width: 298px;
+    height: 475px;
+  }
+  .decoracion-blanca1 {
+    position: absolute;
+    top: 398px;
+    left: 13px;
+    border-radius: var(--br-mini);
+    background-color: var(--color-white);
+    width: 274px;
+    height: 60px;
+  }
+  .decoracion-verde-group {
+    position: absolute;
+    top: 580px;
+    left: 960px;
+    width: 298px;
+    height: 475px;
+  }
+  .decoracion-blanca2,
+  .n-1-icon {
+    position: absolute;
+    left: 13px;
+    border-radius: var(--br-mini);
+  }
+  .n-1-icon {
+    top: 12px;
+    width: 276px;
+    height: 378px;
+    object-fit: cover;
+  }
+  .decoracion-blanca2 {
+    top: 398px;
+    background-color: var(--color-white);
+    width: 274px;
+    height: 51px;
+  }
+  .decoracion-verde-container {
+    position: absolute;
+    top: 580px;
+    left: 1556px;
+    width: 298px;
+    height: 475px;
+  }
+  .beele-icon,
+  .nike-icon {
+    position: absolute;
+    top: 592px;
+    left: 385px;
+    border-radius: var(--br-3xs);
+    width: 255px;
+    height: 378px;
+    object-fit: cover;
+  }
+  .beele-icon {
+    top: 58px;
+  }
+  .group-div {
+    position: absolute;
+    top: 46px;
+    left: 65px;
+    width: 298px;
+    height: 475px;
+  }
+  .decoracion-blanca4 {
+    position: absolute;
+    top: 398px;
+    left: 7px;
+    border-radius: var(--br-mini);
+    background-color: var(--color-white);
+    width: 280px;
+    height: 64px;
+  }
+  .decoracion-verde-parent1,
+  .decoracion-verde-parent2 {
+    position: absolute;
+    top: 46px;
+    left: 662px;
+    width: 298px;
+    height: 475px;
+  }
+  .decoracion-verde-parent2 {
+    left: 1258px;
+  }
+  .blessd-icon,
+  .periodico-icon,
+  .topmusicol-icon {
+    position: absolute;
+    top: 58px;
+    left: 683px;
+    border-radius: var(--br-3xs);
+    width: 255px;
+    height: 378px;
+    object-fit: cover;
+  }
+  .periodico-icon,
+  .topmusicol-icon {
+    left: 87px;
+  }
+  .periodico-icon {
+    top: 592px;
+    left: 683px;
+  }
+  .cerveza-duff-icon,
+  .cientifico-icon,
+  .image-5-icon,
+  .jbalvin-icon,
+  .lata-de-agua,
+  .nio-acordeon-icon,
+  .sttuz-icon {
+    position: absolute;
+    top: 592px;
+    left: 981px;
+    border-radius: var(--br-3xs);
+    width: 255px;
+    height: 378px;
+    object-fit: cover;
+  }
+  .cerveza-duff-icon,
+  .cientifico-icon,
+  .image-5-icon,
+  .jbalvin-icon,
+  .lata-de-agua,
+  .nio-acordeon-icon {
+    top: 58px;
+  }
+  .cerveza-duff-icon,
+  .cientifico-icon,
+  .image-5-icon,
+  .lata-de-agua,
+  .nio-acordeon-icon {
+    top: 592px;
+    left: 1279px;
+  }
+  .cerveza-duff-icon,
+  .image-5-icon,
+  .lata-de-agua,
+  .nio-acordeon-icon {
+    left: 87px;
+  }
+  .cerveza-duff-icon,
+  .image-5-icon,
+  .lata-de-agua {
+    top: 58px;
+    left: 1279px;
+  }
+  .cerveza-duff-icon,
+  .image-5-icon {
+    left: 1577px;
+  }
+  .image-5-icon {
+    top: 592px;
+  }
+  .portada-de-revista-container {
+    position: absolute;
+    top: 449px;
+    left: 59px;
+    text-transform: uppercase;
+    font-weight: 900;
+    display: inline-block;
+    width: 312px;
+    height: 72px;
+  }
+  .fotomontaje-nike-photoshop-container,
+  .fotomontaje-sobre-documental-container,
+  .pagina-de-revista-container,
+  .portada-para-campaa-container {
+    position: absolute;
+    top: 983px;
+    left: 65px;
+    text-transform: uppercase;
+    font-weight: 900;
+    display: inline-block;
+    width: 289px;
+    height: 72px;
+  }
+  .fotomontaje-nike-photoshop-container,
+  .fotomontaje-sobre-documental-container,
+  .pagina-de-revista-container {
+    left: 371px;
+  }
+  .fotomontaje-sobre-documental-container,
+  .pagina-de-revista-container {
+    left: 964px;
+  }
+  .pagina-de-revista-container {
+    left: 660px;
+  }
+  .ilustracin-para-libro-container,
+  .portada-de-cntate-container,
+  .portada-de-cntate-container1 {
+    position: absolute;
+    top: 449px;
+    left: 357px;
+    text-transform: uppercase;
+    font-weight: 900;
+    display: inline-block;
+    width: 312px;
+    height: 72px;
+  }
+  .ilustracin-para-libro-container,
+  .portada-de-cntate-container1 {
+    left: 662px;
+    width: 298px;
+  }
+  .ilustracin-para-libro-container {
+    top: 976px;
+    left: 1260px;
+    width: 288px;
+  }
+  .bebida-de-los-container,
+  .portada-de-cntate-container2,
+  .poster-harry-potter-container,
+  .poster-promocional-de-container {
+    position: absolute;
+    top: 983px;
+    left: 1562px;
+    text-transform: uppercase;
+    font-weight: 900;
+    display: inline-block;
+    width: 288px;
+    height: 72px;
+  }
+  .bebida-de-los-container,
+  .portada-de-cntate-container2,
+  .poster-promocional-de-container {
+    top: 449px;
+    left: 949px;
+    width: 312px;
+  }
+  .bebida-de-los-container,
+  .poster-promocional-de-container {
+    left: 1577px;
+    width: 255px;
+  }
+  .poster-promocional-de-container {
+    left: 1279px;
+  }
+  .universidad-part2 {
+    position: absolute;
+    top: 4554px;
+    left: 0;
+    background: linear-gradient(
+        180deg,
+        rgba(127, 153, 114, 0.2) 11.24%,
+        rgba(230, 229, 220, 0.2)
+      ),
+      linear-gradient(#e6e5dc, #e6e5dc), #e6e5dc;
+    width: 1920px;
+    height: 1192px;
+    overflow: hidden;
+    text-align: center;
+    color: var(--color-black);
+  }
+  .despedida-child {
+    position: absolute;
+    height: 100.27%;
+    width: 99.9%;
+    top: -0.18%;
+    right: 0.05%;
+    bottom: -0.09%;
+    left: 0.05%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    opacity: 0.55;
+  }
+  .muchas-gracias-por {
+    position: relative;
+    font-weight: 900;
+    text-shadow: 1px 0 0#7f9972, 0 1px 0#7f9972, -1px 0 0#7f9972, 0-1px 0#7f9972;
+  }
+  .group-child3 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: var(--br-31xl) 0 0 var(--br-31xl);
+    background-color: var(--color-darkseagreen-100);
+    border: 4px solid var(--color-darkseagreen-100);
+    box-sizing: border-box;
+    width: 503px;
+    height: 106px;
+    width: 503px;
+    position: relative;
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset;
+    height: 106px;
+  }
+  .emanuelberdugo2gmailcom {
+    position: absolute;
+    top: 38px;
+    left: 44px;
+    font-weight: 900;
+    cursor: pointer;
+  }
+  .rectangle-group {
+    width: 503px;
+    position: relative;
+    height: 106px;
+    cursor: pointer;
+  }
+  .emanuelberdugo-22,
+  .grafikpixel221 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-weight: 900;
+    cursor: pointer;
+  }
+  .emanuelberdugo-22 {
+    left: 226px;
+  }
+  .grafikpixel22-parent {
+    width: 528px;
+    position: relative;
+    height: 30px;
+    color: var(--color-darkseagreen-100);
+  }
+  .group-child4 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: var(--br-31xl) 0 0 var(--br-31xl);
+    background-color: var(--color-darkseagreen-100);
+    border: 4px solid var(--color-darkseagreen-100);
+    box-sizing: border-box;
+    width: 503px;
+    height: 106px;
+    width: 503px;
+    position: relative;
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset;
+    height: 106px;
+    transform: rotate(180deg)
+  }
+  .div {
+    position: absolute;
+    top: 38px;
+    left: 138px;
+    font-weight: 900;
+  }
+  .rectangle-container {
+    width: 503px;
+    position: relative;
+    height: 106px;
+
+  }
+  .group-parent1,
+  .muchas-gracias-por-ver-parent {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+  }
+  .group-parent1 {
+    flex-direction: row;
+    gap: 41px;
+    font-size: var(--font-size-6xl);
+    color: var(--color-white);
+  }
+  .muchas-gracias-por-ver-parent {
+    position: absolute;
+    top: 138px;
+    left: 152px;
+    flex-direction: column;
+    gap: 38px;
+    
+  }
+  .despedida {
+    position: absolute;
+    top: 7173px;
+    left: 0;
+    background: linear-gradient(180deg, transparent, rgba(127, 153, 114, 0.24)),
+      #e6e5dc;
+    width: 1920px;
+    height: 554px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 80px;
+  }
+  .portafolio {
+    width: 100%;
+    position: relative;
+    background-color: var(--color-gainsboro);
+    height: 7727px;
+    overflow: hidden;
+    text-align: justify;
+    font-size: var(--font-size-mini);
+    color: var(--color-darkseagreen-100);
+    font-family: var(--font-swis721-blk-bt);
+  }
+  
