@@ -37,7 +37,8 @@
     gap: 17px;
     text-align: center;
     font-size: 250px;
-    font-family: var(--font-swis721-blkex-bt);
+    font-family: swis721-blk-bt;
+
   }
   .emanuel-berdugo-parent {
     position: absolute;
